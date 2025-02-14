@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hello i am pavitra 
-=======
-hii I am chanchal!
-hello everyone how are you 
->>>>>>> aab72b8cefa2d904ac2b50459772be7deb46425a
+Hello chanchal & pavitra. I'm checking fronted. you both need to cover backend and also database.

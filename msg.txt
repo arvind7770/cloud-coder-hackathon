@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello i am pavitra 
+=======
+hii I am chanchal!
+hello everyone how are you 
+>>>>>>> aab72b8cefa2d904ac2b50459772be7deb46425a
